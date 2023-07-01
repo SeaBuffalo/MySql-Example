@@ -58,7 +58,9 @@ docker ps
 
 ##### Enjoy, and don't forget to reference proper documentation
 https://www.docker.com/
+
 https://hub.docker.com/_/mysql
+
 https://www.npmjs.com/package/mysql
 
 ---
